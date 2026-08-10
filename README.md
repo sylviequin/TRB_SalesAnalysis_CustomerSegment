@@ -93,6 +93,13 @@ To answer several questions below:
 
 This analysis is descriptive, not causal — it flags *what* happened (US underperformance, the Q1 2024 bike sales collapse) but the underlying *why* needs external context the transaction data alone can't answer; both are earmarked for a short follow-up market scan rather than presented as settled conclusions here.
 
+### Author
+
+**Quynh Huong Nguyen (Sylvie)**
+
+Macquarie Business School
+
+[LinkedIn](https://www.linkedin.com/in/sylvia-quin/) · 📧 [Email](huongquynh04.vn@gmail.com)
 
 ### Tools
 
