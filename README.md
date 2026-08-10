@@ -83,11 +83,11 @@ To answer several questions below:
 
 **Executive Performance Dashboard**: sales, profit, cost, and regional trends
 
-![Dashboard 1](Dashboard1.png)
+![Dashboard 1](IMAGE/Dashboard1.png)
 
 **Customer & RFM Segmentation Dashboard**: behavioural segments, demographics, spend distribution
 
-![Dashboard 2](Dashboard2.png)
+![Dashboard 2](IMAGE/Dashboard2.png)
 
 ### Limitations
 
