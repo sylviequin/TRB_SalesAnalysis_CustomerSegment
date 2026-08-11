@@ -72,15 +72,6 @@ To answer several questions below:
 
 
 ---
-
-### Files
-
-- `Report`: Full TRB Bussiness Analytics Report (PDF based)
-- `Notebooks`: Python script for EDA & RFM segmentation
-- `Tableau`: Tableau packaged dashboards
-- `Description and Files`: Context, Requirements, and original Dataset files (csv)
-- `Image`: dashboard image (png)
-
 ### Dashboards
 
 **Executive Performance Dashboard**: sales, profit, cost, and regional trends
