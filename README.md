@@ -8,7 +8,7 @@ In this special case study, I acted as a leader to lead this project end-to-end,
 
 ### Business Question
 
-This repository presents a business analytics case study for TrueRide Bicycle, a local +40 year-old family-owned business across North America, Europe, and the Pacific. Over the years, the company has grown significantly, offering a diverse range of bicycles, bike parts, and accessories, as well as sports apparel and biking-related equipment. However, **the TRB management had no concreted view of where profit was actually coming from, or which customers, which regions, and which products were carrying and driving the business profit versus quietly dragging on it**. 
+This repository presents a business analytics case study for TrueRide Bicycle, a local +40 year-old family-owned business across North America, Europe, and the Pacific. Over the years, the company has grown significantly, offering a diverse range of bicycles, bike parts, and accessories, as well as sports apparel and biking-related equipment. However, the demand and overal profitability witnessed a severe decline at the beginning of 2024 and be expected to continue decaying with the popularity of e-bike usage and **the TRB management had to re-consider where profit was actually coming from, or which customers segments, which regions, and which products were carrying and driving the business profit versus quietly dragging on it**. 
 
 **The setup**: COVID-19 triggered a global surge in bicycle demand from 2020–2022, as consumers turned to cycling for exercise, commuting, and outdoor recreation during lockdowns. TRB's 2023 rode this wave recording its highest-ever sales year at $17.96M, more than double 2022.
 
@@ -28,7 +28,7 @@ To answer several questions below:
 
 - Built an end-to-end pipeline in Python (Jupyter) to clean and explore four raw source tables (Orders, Products, Customers, Promotions), then modelled RFM (Recency, Frequency, Monetary) scores in Python to segment TRB's full customer base into 7 behavioural groups.
 - Designed and built two interactive Tableau dashboards from that model: an executive performance dashboard (sales, profit, cost, and regional trends) and a customer & marketing dashboard (RFM segment profiles, demographics, spend distribution), both with cross-filtering for non-technical stakeholders to self-serve.
-- Diagnosed profitability at three levels — company-wide, customer segment, and product category to find where the real margin was, not just where the volume was.
+- Diagnosed profitability at three levels, including company-wide, customer segment, and product category to find where the real margin was, not just where the volume was.
 
 ---
 
