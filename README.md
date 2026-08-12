@@ -1,8 +1,13 @@
 ## TrueRide Bicycle (TRB) Performances and Customer Behavior
 
-Team project | Group of 3 | Project lead
+Team project || Project lead
 
-In this special case study, I acted as a leader to lead this project end-to-end, focusing on analyzing sales performance, product profitability, customer behavior, and regional market performance to drive data-informed strategic decisions.
+> In this special case study, I acted as a leader to lead this project end-to-end, focusing on analyzing sales performance, product profitability, customer behavior, and regional market performance to drive data-informed strategic decisions.
+
+![Period](https://img.shields.io/badge/Period-Q4_2020_--_Q1_2024-333333?style=flat-square)
+![Region](https://img.shields.io/badge/Region-NA_%C2%B7_EU_%C2%B7_Pacific-333333?style=flat-square)
+![Built with](https://img.shields.io/badge/Built_with-Python_%7C_Tableau-2f6fdb?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Complete-4c7a3f?style=flat-square)
 
 ---
 
