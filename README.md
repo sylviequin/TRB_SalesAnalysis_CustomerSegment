@@ -2,7 +2,7 @@
 
 Team project || Project lead
 
-> In this special case study, I acted as a leader to lead this project, focusing on analyzing sales performance, product profitability, customer behavior, and regional market performance to drive data-informed strategic decisions.
+In this special case study, I acted as a leader to lead this project, focusing on analyzing sales performance, product profitability, customer behavior, and regional market performance to drive data-informed strategic decisions.
 
 ![Period](https://img.shields.io/badge/Period-Q4_2020_--_Q1_2024-333333?style=flat-square)
 ![Region](https://img.shields.io/badge/Region-NA_%C2%B7_EU_%C2%B7_Pacific-333333?style=flat-square)
@@ -13,7 +13,9 @@ Team project || Project lead
 
 ### Business Question
 
-This repository presents a business analytics case study for TrueRide Bicycle, a local +40 year-old family-owned business across North America, Europe, and the Pacific. However, the conventional bicycle demand and overal profitability witnessed a severe decline at the beginning of 2024 and be expected to continue decaying with the popularity of e-bike usage. **The TRB management had to re-consider where profit was actually coming from, or which customers segments, which regions, and which products were carrying and driving the business profit versus quietly dragging on it**. 
+This repository presents a business analytics case study for TrueRide Bicycle, a local +40 year-old family-owned business across North America, Europe, and the Pacific. However, the conventional bicycle demand and overal profitability witnessed a severe decline at the beginning of 2024 and be expected to continue decaying with the popularity of e-bike usage. 
+
+> The TRB management had to re-consider where profit was actually coming from, or which customers segments, which regions, and which products were carrying and driving the business profit versus quietly dragging on it**. 
 
 **The setup**: COVID-19 triggered a global surge in bicycle demand from 2020–2022, as consumers turned to cycling for exercise, commuting, and outdoor recreation during lockdowns. TRB's 2023 rode this wave recording its highest-ever sales year at $17.96M, more than double 2022.
 
